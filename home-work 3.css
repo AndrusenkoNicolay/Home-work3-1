@@ -1,0 +1,28 @@
+
+h1{
+    color: #FFFFFF;
+    background: #A52A2A;
+    text-align: center;
+}
+section img {
+    border: 4px dashed black;
+
+}
+a{
+    text-decoration: none;
+}
+.colortext{
+    color: #0000FF;
+}
+.rovno{
+    text-align: center;
+}
+.text{
+    font-size: 18px
+}
+.tekct{
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #000;
+    text-align: center;
+}
